@@ -1,0 +1,3 @@
+pytelegrambotapi
+web3
+python-dotenv
